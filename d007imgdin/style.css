@@ -1,0 +1,15 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: rgb(100, 45, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: rgb(138, 62, 1);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
